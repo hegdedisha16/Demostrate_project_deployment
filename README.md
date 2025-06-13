@@ -1,2 +1,3 @@
 # Demostrate_project_deployment
-This repository is created for a demonstration
+This repository contains EDA on sales dataset
+Author - Disha H
