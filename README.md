@@ -1,3 +1,3 @@
-# Demostrate_project_deployment
-This repository contains EDA on sales dataset
-Author - Disha H
+# EDA_Titanic_Dataset
+This repository contains EDA on the Titanic dataset
+Author - Disha Hegde
