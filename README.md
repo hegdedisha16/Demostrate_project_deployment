@@ -1,3 +1,6 @@
 # EDA_Titanic_Dataset
-This repository contains EDA on the Titanic dataset
+<hr>
+<p>This repository contains EDA on the Titanic dataset</p>
+<p>example of git</p>
+<br>
 Author - Disha Hegde
